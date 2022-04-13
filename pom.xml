@@ -23,7 +23,7 @@
     <scope>provided</scope>
 	</dependency>
 	
-	<!-- dependencias de mysql-->
+	<!-- depe ndencias de mysql-->
 <dependency>
     <groupId>mysql</groupId>
     <artifactId>mysql-connector-java</artifactId>
